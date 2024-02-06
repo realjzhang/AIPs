@@ -15,7 +15,7 @@ requires: "AIP-10: Move Objects", "AIP-11: Token Objects", "AIP-21: Fungible Ass
 
 ## Summary
 
-This AIP proposes a purpose-specific, extensible composability framework that allows creators to create NFTs for Dynamic PFP, composable game assets, and other rich applications that require composability. It does this with new business logic, sub-functions, data structures, and APIs, while also embracing the extensibility of the object model from `AIP-11` & `AIP-10` and the no-code framework from `AIP-22`.
+This AIP proposes a purpose-specific, extensible composability framework that allows creators to create NFTs for Dynamic PFP, composable game assets, and other rich applications that require composability. It does this with new business logic, sub-functions, data structures, and APIs, based on the object model from `AIP-11` & `AIP-10` while leveraging the no-code feature from `AIP-22` and the composability freedom with fungible assets in 'AIP-21'.
 
 The solution not only addresses this aspect but also introduces supplementary features such as creator management, custom metadata, and embedded migration. Event emission features from `AIP-44` are also included in the framework, thereby offering a comprehensive stack for composable token use cases.
 
